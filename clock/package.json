@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "moment": "^2.29.4"
+  },
+  "name": "clock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "day": "^0.0.2",
+    "webpack": "^5.74.0"
+  }
+}
